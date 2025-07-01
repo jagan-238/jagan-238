@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eragala Jagan Mohan Reddy</h1>
 
 <h3 align="center">
-💻 Aspiring Full-Stack Developer with a B.Tech in Electrical Engineering, currently focused on the MERN stack. <br>
-Passionate about building modern, user-friendly web applications and solving real-world problems. <br><br>
-💡 Skilled in JavaScript, HTML, CSS, React, and the MERN stack, with a solid foundation in Data Structures and Algorithms. <br>
-Gained hands-on experience through projects, coding challenges, and hackathons. <br><br>
-💼 Open to opportunities: Frontend Developer | Full-Stack Developer
+💻 Aspiring Full-Stack Developer with a B.Tech in Electrical Engineering, currently focused on the MERN stack. Passionate about building modern, user-friendly web applications and solving real-world problems. 💡 Skilled in JavaScript, HTML, CSS, React, and the MERN stack, with a solid foundation in Data Structures and Algorithms. Gained hands-on experience through projects, coding challenges, and hackathons. 💼 Open to opportunities: Frontend Developer | Full-Stack Developer
 </h3>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Typing Laptop" width="300" />
+</p>
+
 
 <h2 align="left">About me</h2>
 
@@ -58,3 +60,19 @@ Gained hands-on experience through projects, coding challenges, and hackathons. 
   <img src="https://github-readme-stats.vercel.app/api?username=jagan-238&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan-238&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<h2 align="left">🤝 Connect With Me</h2>
+
+<p align="left">
+  📧 <strong>Email:</strong> <a href="mailto:eragalajaganmohanreddy1160@gmail.com">eragalajaganmohanreddy1160@gmail.com</a><br>
+  🌐 <strong>Portfolio:</strong> Coming soon <br>
+  💻 <strong>GitHub:</strong> <a href="https://github.com/jagan-238">jagan-238</a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jagan-238&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<h3 align="center">🚀 Thanks for visiting my profile! Feel free to check out my projects and connect! 🤗</h3>
+
