@@ -63,9 +63,13 @@
 <h2 align="left">🤝 Connect With Me</h2>
 
 <p align="left">
-  📧 <strong>Email:</strong> <a href="mailto:eragalajaganmohanreddy1160@gmail.com">eragalajaganmohanreddy1160@gmail.com</a><br>
-  🌐 <strong>Portfolio:</strong> Coming soon <br>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/jagan-238">jagan-238</a>
+📧 <strong>Email:</strong> 
+<a href="mailto:eragalajaganmohanreddy1160@gmail.com">eragalajaganmohanreddy1160@gmail.com</a><br>
+🌐 <strong>Portfolio:</strong> 
+<a href="https://jagan-mohan-reddy-portfolio.netlify.app/" target="_blank">jagan</a><br>
+💻 <strong>GitHub:</strong> 
+<a href="https://github.com/jagan-238" target="_blank">jagan-238</a>
+
 </p>
 
 <p align="left">
