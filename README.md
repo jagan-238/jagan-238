@@ -66,7 +66,7 @@
 📧 <strong>Email:</strong> 
 <a href="mailto:eragalajaganmohanreddy1160@gmail.com">eragalajaganmohanreddy1160@gmail.com</a><br>
 🌐 <strong>Portfolio:</strong> 
-<a href="https://jagan-mohan-reddy-portfolio.netlify.app/" target="_blank">jagan</a><br>
+<a href="https://jagan-mohanreddy.netlify.app/" target="_blank">jagan</a><br>
 💻 <strong>GitHub:</strong> 
 <a href="https://github.com/jagan-238" target="_blank">jagan-238</a>
 
