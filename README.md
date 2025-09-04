@@ -68,7 +68,10 @@
 🌐 <strong>Portfolio:</strong> 
 <a href="https://jagan-mohanreddy.netlify.app/" target="_blank">jagan</a><br>
 💻 <strong>GitHub:</strong> 
-<a href="https://github.com/jagan-238" target="_blank">jagan-238</a>
+<a href="https://github.com/jagan-238" target="_blank">jagan-238</a><br>
+🔗 <strong>LinkedIn:</strong> 
+<a href="https://www.linkedin.com/in/jagan-mohan-reddy-eragala-73baa3293/" target="_blank">LinkedIn</a>
+</p>
 
 </p>
 
